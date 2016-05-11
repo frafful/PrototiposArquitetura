@@ -1,0 +1,10 @@
+c:\users\administrador.wicp000109\documents\visual studio 2012\Projects\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\PrototipoArquitetura1.Dominio.dll
+c:\users\administrador.wicp000109\documents\visual studio 2012\Projects\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\PrototipoArquitetura1.Dominio.pdb
+c:\users\administrador.wicp000109\documents\visual studio 2012\Projects\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.csprojResolveAssemblyReference.cache
+c:\users\administrador.wicp000109\documents\visual studio 2012\Projects\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.dll
+c:\users\administrador.wicp000109\documents\visual studio 2012\Projects\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\PrototipoArquitetura1.Dominio.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.pdb

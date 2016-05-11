@@ -1,0 +1,7 @@
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\bin\Debug\PrototipoArquitetura1.Servico.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\bin\Debug\PrototipoArquitetura1.Servico.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\bin\Debug\PrototipoArquitetura1.Dominio.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\bin\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\obj\Debug\PrototipoArquitetura1.Servico.csprojResolveAssemblyReference.cache
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\obj\Debug\PrototipoArquitetura1.Servico.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Servico\obj\Debug\PrototipoArquitetura1.Servico.pdb
