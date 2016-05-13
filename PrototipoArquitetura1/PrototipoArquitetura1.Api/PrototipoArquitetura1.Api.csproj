@@ -122,7 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PrototipoArquitetura1.Aplicacao\PrototipoArquitetura1.Aplicacao.csproj">

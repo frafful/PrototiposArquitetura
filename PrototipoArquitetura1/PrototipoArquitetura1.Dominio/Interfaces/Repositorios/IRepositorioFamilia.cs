@@ -9,5 +9,6 @@ namespace PrototipoArquitetura1.Dominio.Interfaces.Repositorios
 {
     public interface IRepositorioFamilia : IRepositorioBase<Familia>
     {
+        Familia ObterPorNome(string nome);
     }
 }

@@ -5,3 +5,13 @@ C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\Protot
 C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\obj\Debug\PrototipoArquitetura1.Aplicacao.csprojResolveAssemblyReference.cache
 C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\obj\Debug\PrototipoArquitetura1.Aplicacao.dll
 C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\obj\Debug\PrototipoArquitetura1.Aplicacao.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\PrototipoArquitetura1.Aplicacao.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\PrototipoArquitetura1.Aplicacao.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\PrototipoArquitetura1.Dominio.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\DomainValidation.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\obj\Debug\PrototipoArquitetura1.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\obj\Debug\PrototipoArquitetura1.Aplicacao.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\obj\Debug\PrototipoArquitetura1.Aplicacao.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\AutoMapper.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Aplicacao\bin\Debug\AutoMapper.xml

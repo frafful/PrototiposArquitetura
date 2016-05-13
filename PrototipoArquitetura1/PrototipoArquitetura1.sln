@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CrossCutting", "CrossCuttin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototipoArquitetura1.Infra.CrossCutting.IoC", "PrototipoArquitetura1.Infra.CrossCutting.IoC\PrototipoArquitetura1.Infra.CrossCutting.IoC.csproj", "{3C0BF3EE-5993-4C2E-AD19-8D255E3021D2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Apresentação", "0 - Apresentação", "{02A80617-25F2-4886-8960-92ED061EA221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -8,6 +8,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DomainValidation;
 
 namespace PrototipoArquitetura1.Servico
 {
@@ -22,25 +23,18 @@ namespace PrototipoArquitetura1.Servico
             _unidadeDeTrabalho = unidadeDeTrabalho;
         }
         
-        public void Adicionar(Dominio.Entidades.Familia familia)
+        public Familia Adicionar(Dominio.Entidades.Familia familia)
         {
-            //teste
+            if (!familia.Valido())
+                return familia;
+            
             familia = new Familia { Nome = "Familia Teste", DataDeCriacao = DateTime.Now, DataDeAtualizacao = DateTime.Now };
+            
+            _repositorioFamilia.Incluir(familia);
 
-            //Teste transacao
-            try
-            {
-                _unidadeDeTrabalho.BeginTran();
+            familia.ResultadoValidacao.Message = "Família cadastrada com sucesso";
 
-                _repositorioFamilia.Incluir(familia);
-
-                _unidadeDeTrabalho.Commit();
-            }
-            catch (Exception)
-            {
-                _unidadeDeTrabalho.Rollback();
-                throw;
-            }
+            return familia;
         }
     }
 }

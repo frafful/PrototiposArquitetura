@@ -9,6 +9,6 @@ namespace PrototipoArquitetura1.Dominio.Interfaces.Servicos
 {
     public interface IServicoFamilia : IServicoBase
     {
-        void Adicionar(Familia familia);
+        Familia Adicionar(Familia familia);
     }
 }

@@ -30,27 +30,32 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DomainValidation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DomainValidation.1.0.0\lib\net453\DomainValidation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstratos\EntidadeBase.cs" />
     <Compile Include="Entidades\Familia.cs" />
+    <Compile Include="Especificacoes\Familia\FamiliaDevePossuirNomeUnicoEspecificacao.cs" />
     <Compile Include="Interfaces\IUnidadeDeTrabalho.cs" />
     <Compile Include="Interfaces\Repositorios\IRepositorioBase.cs" />
     <Compile Include="Interfaces\Repositorios\IRepositorioFamilia.cs" />
     <Compile Include="Interfaces\Servicos\IServicoBase.cs" />
     <Compile Include="Interfaces\Servicos\IServicoFamilia.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validacoes\Familia\FamiliaAptaParaCadastroValidacao.cs" />
+    <Compile Include="Validacoes\Familia\FamiliaEstaConsistenteValidacao.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\Aplicacoes\" />
     <Folder Include="Interfaces\Fabricas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

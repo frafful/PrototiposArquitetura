@@ -1,4 +1,5 @@
 ﻿using PrototipoArquitetura1.Api.App_Start;
+using PrototipoArquitetura1.Aplicacao.AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace PrototipoArquitetura1.Api
             SimpleInjectorWebApiInitializer.Initialize();
             
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            AutoMapperConfig.RegistrarMapeamentos();
         }
     }
 }

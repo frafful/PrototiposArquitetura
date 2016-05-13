@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Dapper;
 
 namespace PrototipoArquitetura1.Infra.Dados.Repositorios
 {
@@ -14,6 +15,13 @@ namespace PrototipoArquitetura1.Infra.Dados.Repositorios
         public RepositorioFamilia(IUnidadeDeTrabalho unidadeDeTrabalho)
         {
             UnidadeDeTrabalho = unidadeDeTrabalho;
+        }
+
+        public Familia ObterPorNome(string nome)
+        {
+            string filtro = "where Nome ='" + nome + "%' " 
+                            + "and DataDeExclusao IS NULL" ;
+            return UnidadeDeTrabalho.Conexao.Get<Familia>(filtro);
         }
     }
 }

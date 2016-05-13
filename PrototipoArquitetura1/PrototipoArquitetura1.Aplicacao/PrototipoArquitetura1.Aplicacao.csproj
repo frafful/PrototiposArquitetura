@@ -30,7 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper, Version=4.2.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.4.2.1\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -39,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoMapper\AutoMapperConfig.cs" />
+    <Compile Include="AutoMapper\DominioParaViewModelPerfilMapeamento.cs" />
+    <Compile Include="AutoMapper\ViewModelParaDominioPerfilMapeamento.cs" />
     <Compile Include="FamiliaServicoApp.cs" />
     <Compile Include="Interfaces\IFamiliaServicoApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -49,6 +57,10 @@
       <Project>{3b7e05ca-1881-4987-a2d9-c70287e6a801}</Project>
       <Name>PrototipoArquitetura1.Dominio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

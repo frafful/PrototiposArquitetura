@@ -8,3 +8,9 @@ C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\Protot
 C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.csprojResolveAssemblyReference.cache
 C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.dll
 C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\obj\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\PrototipoArquitetura1.Dominio.dll
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\PrototipoArquitetura1.Dominio.pdb
+C:\Users\feliper\Documents\Desenvolvimento\Projetos\PrototiposArquitetura\PrototipoArquitetura1\PrototipoArquitetura1.Dominio\bin\Debug\DomainValidation.dll
